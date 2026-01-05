@@ -1,3 +1,7 @@
+## Power Bi Project File Link Below
+
+https://drive.google.com/file/d/1ZHOA-j99mGLhYgeNoQRALOhrvIorV760/view?usp=drive_link
+
 ## Objectives
 - Segment customers into Loyal, New, and Lost categories
 - Analyze customer behavior using KPIs
